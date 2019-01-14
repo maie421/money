@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="299dp"
+        tools:srcCompat="@tools:sample/avatars[1]"
+        android:layout_margin="22dp" />
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="로그인하기"
+            android:textSize="20dp"
+            android:background="@color/primaryColor"
+            android:textColor="@color/primaryTextColor"
+            android:layout_margin="8dp"/>
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원가입"
+        android:textSize="20dp"
+        android:textColor="@color/primaryTextColor"
+        android:background="@color/primaryLightColor"
+        android:layout_margin="8dp"/>
+</LinearLayout>
