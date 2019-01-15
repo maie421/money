@@ -30,15 +30,15 @@
 <ul>
   <li>날짜 선택</li>
 </ul>
-<h4>리스트뷰메인</h4>
+<h4>리스트뷰 메인</h4>
 <ul>
   <li>이름동일시 금액증가</li>
   <li>총금액이 0이 될경우 삭제</li>
 </ul>
-<h4>리스트뷰상세</h4>
+<h4>리스트뷰 상세</h4>
 <ul>
   <li>수정</li>
   <li>금액변경시 총금액변경</li>
   <li>삭제</li>
 </ul>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://youtu.be/QcAzNCdefAY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
