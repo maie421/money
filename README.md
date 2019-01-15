@@ -1,6 +1,8 @@
 # 안드로이드앱 개발 친구야 돈갚자 어플입니다
+
 <h4>안드로이드 첫 프로젝트 입니다</h4>
 <h2>※프로젝트 완료</h2>
+<iframe width="560" height="315" src="https://youtu.be/QcAzNCdefAY/" frameborder="0" allowfullscreen></iframe>
 <h3>공헌한 내용</h3>
 <ul>
   <li>기간 :1달</li>
@@ -41,4 +43,4 @@
   <li>금액변경시 총금액변경</li>
   <li>삭제</li>
 </ul>
-<iframe width="640" height="360" src="https://youtu.be/QcAzNCdefAY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
