@@ -3,7 +3,7 @@
   <body>
 <h4>안드로이드 첫 프로젝트 입니다</h4>
 <h2>※프로젝트 완료</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/QcAzNCdefAY/" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/QcAzNCdefAY" frameborder="0" allowfullscreen></iframe>
 
 <h3>공헌한 내용</h3>
 <ul>
