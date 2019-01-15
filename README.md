@@ -1,9 +1,9 @@
-# 안드로이드앱 개발 친구야 돈갚자 어플입니다
+# 안드로이드앱 개발 친구야 돈 갚자 어플입니다
 <html>
   <body>
 <h4>안드로이드 첫 프로젝트 입니다</h4>
 <h2>※프로젝트 완료</h2>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QcAzNCdefAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcAzNCdefAY" allowfullscreen></iframe>
 
 <h3>공헌한 내용</h3>
 <ul>
