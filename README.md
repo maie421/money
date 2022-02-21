@@ -1,4 +1,4 @@
-# 안드로이드앱 개발 친구야 돈 갚자 어플입니다
+# 안드로이드앱 개발 기록 
 <h4>안드로이드 첫 프로젝트 입니다</h4>
 <h2>※프로젝트 완료</h2>
     https://www.youtube.com/watch?v=QcAzNCdefAY&feature=youtu.be
